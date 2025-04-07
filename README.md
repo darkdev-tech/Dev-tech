@@ -1,7 +1,6 @@
-# 🤍 ɢᴇᴛ ᴘᴀɪʀ ᴄᴏᴅᴇ
-</a></p>
-- <a href="https://popkid.vercel.app/"><img title="TAP FOR SESSION ID" src="https://img.shields.io/badge/TAP FOR SESSION ID-h?color=pink&style=for-the-badge&logo=porsche&logoColor=pink" width="240" height="38.45"/></a></p>
 
+
+[![Get Session ID Here](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=orange)](https://alone-md-nkds.onrender.com/pair) 
 
 
 # 🧡 ᴅᴇᴘʟᴏʏ ʙᴏᴛ
